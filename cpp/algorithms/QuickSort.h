@@ -1,7 +1,8 @@
+#pragma once
+
 // Nima Shafie
 
 #include <iostream>
-
 using namespace std;
 
 void QuickSort(int data[], int first, int last);
@@ -11,7 +12,7 @@ void printSemiSortedData(int data[], int first, int last, int pivotIndex);
 // const variables
 const int ARRAY_SIZE = 20;
 
-int main()
+void QuickMain()
 {
 	int data[ARRAY_SIZE];
 	cout << "Quick Sort Exercise!\n\n";

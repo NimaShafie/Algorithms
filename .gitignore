@@ -31,8 +31,5 @@
 *.out
 *.app
 /.vs/Algorithms/v17
-/Algorithms.vcxproj.user
-/Algorithms.vcxproj.filters
-/Algorithms.vcxproj
-/Algorithms.sln
 /x64/Debug
+/.vs
